@@ -1,0 +1,44 @@
+{
+	"macros": {
+		"Reflow: resize width…": {
+			"class": "ReflowMacro",
+			"axis": "horizontal",
+			"mode": "resize"
+		},
+		"Reflow: select objects that grow in width": {
+			"class": "ReflowMacro",
+			"axis": "horizontal",
+			"mode": "grow"
+		},
+		"Reflow: select objects moved right": {
+			"class": "ReflowMacro",
+			"axis": "horizontal",
+			"mode": "shift"
+		},
+		"Reflow: select objects re-centered horizontally": {
+			"class": "ReflowMacro",
+			"axis": "horizontal",
+			"mode": "center"
+		},
+		"Reflow: resize height…": {
+			"class": "ReflowMacro",
+			"axis": "vertical",
+			"mode": "resize"
+		},
+		"Reflow: select objects that grow in height": {
+			"class": "ReflowMacro",
+			"axis": "vertical",
+			"mode": "grow"
+		},
+		"Reflow: select objects moved down": {
+			"class": "ReflowMacro",
+			"axis": "vertical",
+			"mode": "shift"
+		},
+		"Reflow: select objects re-centered vertically": {
+			"class": "ReflowMacro",
+			"axis": "vertical",
+			"mode": "center"
+		}
+	}
+}
